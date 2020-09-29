@@ -27,4 +27,7 @@ path
     stroke:gold;
     stroke-width:6;
 }
-
+.off
+{
+    opacity: .1
+}
